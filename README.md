@@ -43,4 +43,4 @@
 
 ## 作者 (Author)
 
-*   Cline (AI Assistant)
+*   Kurotori + Cline (AI Assistant) 
