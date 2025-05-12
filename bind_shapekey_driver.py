@@ -136,7 +136,6 @@ class VIEW3D_PT_bind_shapekey_driver_panel(bpy.types.Panel):
             col.label(text="Select exactly two mesh objects.")
             # Optionally disable the button or show it grayed out
             op = col.operator(OBJECT_OT_bind_shapekey_driver.bl_idname, text="Bind Driver (Inactive)")
-            op.active = False # Make the button inactive
 
 
 classes = (
